@@ -1,9 +1,15 @@
 // ==UserScript==
-// @name         SimpleKomaDownloader
+// @name         SimpleKomaDownloader1
 // @version      0.21
 // @description  Simplified download from *.koma.tv
 // @author       mrtoxas, mrtoxas@gmail.com
-// @match        *://*.koma.tv/*
+// @match        *://*/*
+// @include      http://video.koma.tv/*
+// @include      http://serial.koma.tv/*
+// @include      http://mult.koma.tv/*
+// @include      http://docfilm.koma.tv/*
+// @include      http://tvshow.koma.tv/*
+// @include      http://sport.koma.tv/*
 // @run-at       document-idle
 // ==/UserScript==
 (function() {
