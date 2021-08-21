@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         SimpleKomaDownloader1
+// @name         SimpleKomaDownloader
 // @version      0.21
 // @description  Simplified download from *.koma.tv
 // @author       mrtoxas, mrtoxas@gmail.com
